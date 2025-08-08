@@ -678,9 +678,9 @@ Scheduler (Node Cron/Interval)
 
 ## 🔗 Live Links
 
-- **Frontend on Vercel:** [https://slack-connect-omega.vercel.app/](https://slack-connect-omega.vercel.app/)
+- **Frontend on Vercel:** [https://slack-connect-sable.vercel.app/home](https://slack-connect-sable.vercel.app/home)
 - **Backend Health Check (Render):**  
-  [https://slack-connect-bv81.onrender.com/health](https://slack-connect-bv81.onrender.com/health)
+  [https://slack-connect-backend-x6ix.onrender.com/health](https://slack-connect-backend-x6ix.onrender.com/health)
   > ⚠️ First request may take 50–60 sec due to Render's cold start
 
 ---
